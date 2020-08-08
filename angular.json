@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "assessment"
+    }
+  },
+  "defaultProject": "assessment",
+  "cli": {
+    "analytics": false
+  }
 }
